@@ -10,7 +10,7 @@
     <ItemGroup>
       <PackageReference Include="Serilog" Version="4.3.0" />
       <PackageReference Include="Serilog.Extensions.Hosting" Version="9.0.0" />
-      <PackageReference Include="Signicat.Serilog" Version="1.1.76" />
+      <PackageReference Include="Serilog.Sinks.Console" Version="4.1.0" />
     </ItemGroup>
 
 </Project>
