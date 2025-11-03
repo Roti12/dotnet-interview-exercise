@@ -3,6 +3,15 @@
 Pair programming exercise for dotnet server side candidates. Feel free to use google and whatever other tools you would normally use.
 Please note that you are not expected to solve everything.
 
+## Running in Github Codespace ##
+If this project is running remotely in a self contained Github Codespace. Please follow this guide for making API calls.
+1. Click the PORTS tab. This lists all of the ports you have forwarded.
+2. Right-click the port you want to connect to and click Copy Local Address.
+3. Finding the GITHUB_TOKEN. In the terminal in your codespace, enter echo $GITHUB_TOKEN.
+    The token is a string beginning ghu_.
+    Copy the token.
+4. When making a HTTP request add the header **X-Github-Token** and paste the copyed github token as its value.
+
 ## Case ##
 Create a simple username and password authentication API. Service interface below.
 
