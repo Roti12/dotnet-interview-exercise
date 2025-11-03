@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signicat.Dotnet.Interview.Excercise.Api", "Signicat.Dotnet.Interview.Excercise.Api\Signicat.Dotnet.Interview.Excercise.Api.csproj", "{B9E1D475-48B6-4162-9D6A-9E2ACEC43A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signicat.Dotnet.Interview.Exercise.IntegrationTests", "Signicat.Dotnet.Interview.Exercise.IntegrationTests\Signicat.Dotnet.Interview.Exercise.IntegrationTests.csproj", "{1189335A-E8B9-4B0E-9326-CAC80A18A5F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9E1D475-48B6-4162-9D6A-9E2ACEC43A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E1D475-48B6-4162-9D6A-9E2ACEC43A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E1D475-48B6-4162-9D6A-9E2ACEC43A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E1D475-48B6-4162-9D6A-9E2ACEC43A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1189335A-E8B9-4B0E-9326-CAC80A18A5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1189335A-E8B9-4B0E-9326-CAC80A18A5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1189335A-E8B9-4B0E-9326-CAC80A18A5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1189335A-E8B9-4B0E-9326-CAC80A18A5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
